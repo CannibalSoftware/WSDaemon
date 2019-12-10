@@ -1,0 +1,8 @@
+This licence was selected to serve the following purposes:
+  1. To allow the software to remain as free to use for everyone and
+  2. Avoid the clutches of the viral GPL licence types.
+  
+This software and the licence it is released under is intended NOT TO BE compatible 
+with any GPL licence either now or in the future.
+
+The documentation contains more information on the reasoning for using this licence.
